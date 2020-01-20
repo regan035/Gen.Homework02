@@ -23,9 +23,6 @@ footer{
     margin: auto;
 }
 
-.connect{
-    margin-auto;
-}
 .about{
     background-image: url(asset/black-and-white-city-houses-skyline.jpg) ;
     width: 100%;
@@ -36,11 +33,14 @@ footer{
 
 }
 
+.card{
+    margin-bottom: 5px;
+}
 .card-body{
     text-align: center;
 }
 .btn{
-    display: inline-block;
+    margin:0 auto;
 }
 
 .about-text{
@@ -55,3 +55,24 @@ footer{
     font-weight: 600;
 }
 
+.portfolio{
+    margin-bottom: 70px;
+}
+
+.contact{
+    width: 85%;
+    max-width: 600px;
+    position: absolute;
+    top:10%;
+    left: 30%;
+    background: whitesmoke;
+    padding: 30px 40px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.contact-text{
+
+}
