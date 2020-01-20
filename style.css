@@ -1,5 +1,28 @@
+body{
+    height: 100%;
+    width: 100%;
+}
 a{
     color: white;
     text-decoration: none;
     margin-right: 50px;
+}
+
+.navbar{
+    padding: 1% 0;
+}
+
+footer{
+    height: 70px;
+    color: whitesmoke;
+    padding-top: 10px;
+
+}
+#about{
+    background-image: url(asset/black-and-white-city-houses-skyline.jpg) ;
+    background-size: cover;
+    background-attachment: fixed;
+    
+   
+    
 }
