@@ -2,8 +2,9 @@ body{
     height: 1000px;
     width: 100%;
 }
+
 a{
-    color: white;
+    color: whitesmoke;
     text-decoration: none;
     margin-right: 50px;
 }
@@ -33,16 +34,6 @@ footer{
 
 }
 
-.card{
-    margin-bottom: 5px;
-}
-.card-body{
-    text-align: center;
-}
-.btn{
-    margin:0 auto;
-}
-
 .about-text{
     display: table-cell;
     text-align: center;
@@ -55,8 +46,22 @@ footer{
     font-weight: 600;
 }
 
+.card{
+    margin-bottom: 5px;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.btn{
+    margin:0 auto;
+}
+
 .portfolio{
+    margin-left: 25px;
     margin-bottom: 70px;
+    text-align: center;
 }
 
 .contact{
@@ -71,8 +76,4 @@ footer{
     border-radius: 8px;
     text-align: center;
     font-family: sans-serif;
-}
-
-.contact-text{
-
 }
