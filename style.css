@@ -28,6 +28,7 @@ footer{
     margin: auto;
 }
 
+/* About */
 .about{
     background-image: url(asset/black-and-white-city-houses-skyline.jpg) ;
     width: 100%;
@@ -51,6 +52,7 @@ footer{
     font-family: 'Poppins', sans-serif;
 }
 
+/* Portfolio */
 .card{
     margin-bottom: 5px;
 }
@@ -70,6 +72,7 @@ footer{
     text-align: center;
 }
 
+/* Contact */
 .container{
     width: 85%;
     max-width: 600px;
@@ -81,4 +84,10 @@ footer{
     border-radius: 8px;
     text-align: center;
     font-family: sans-serif;
+    
+}
+input, textarea{
+    border: 2px solid #cccccc;
+    border-radius: 5px;
+    width: 80%;
 }
