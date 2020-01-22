@@ -43,7 +43,6 @@ footer{
     text-align: center;
     top: 20%;
     margin: 0  20%;
-    font-family:sans-serif;
 }
 
 .about-text h1{
@@ -81,10 +80,9 @@ footer{
     background: whitesmoke;
     box-sizing: border-box;
     border-radius: 8px;
-    text-align: center;
-    font-family: sans-serif;
-    
+    text-align: center;  
 }
+
 input, textarea{
     border: 2px solid #cccccc;
     border-radius: 5px;
