@@ -42,7 +42,6 @@ footer{
     position: relative;
     text-align: center;
     top: 20%;
-    font-family: monospace;
     margin: 0  20%;
 }
 
@@ -67,7 +66,6 @@ footer{
 
 .portfolio{
     position: relative;
-    
     margin-bottom: 70px;
     text-align: center;
 }
