@@ -42,7 +42,6 @@ footer{
     position: relative;
     text-align: center;
     top: 20%;
-    font-family: monospace;
     margin: 0  20%;
 }
 
@@ -67,7 +66,6 @@ footer{
 
 .portfolio{
     position: relative;
-    
     margin-bottom: 70px;
     text-align: center;
 }
@@ -82,10 +80,9 @@ footer{
     background: whitesmoke;
     box-sizing: border-box;
     border-radius: 8px;
-    text-align: center;
-    font-family: sans-serif;
-    
+    text-align: center;  
 }
+
 input, textarea{
     border: 2px solid #cccccc;
     border-radius: 5px;
